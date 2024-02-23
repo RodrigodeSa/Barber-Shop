@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Barber Shop</string>
+    <string name="barber_shop_text">Barber Shop</string>
+    <string name="name_text">Nome</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="cutting_hair_text">Corte de Cabelo</string>
+    <string name="all_services_text">Todos os Serviços</string>
+    <string name="to_schedule_text">AGENDAR</string>
+    <string name="coutting_beard_text">Corte de barba</string>
+    <string name="hair_washing_text">Lavagem de cabelo</string>
+    <string name="hair_treatment_text">Tratamento de cabelo</string>
+</resources>
